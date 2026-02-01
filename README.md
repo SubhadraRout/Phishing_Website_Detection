@@ -78,3 +78,18 @@ The project uses supervised machine learning algorithms such as:
 ```bash
 git clone https://github.com/your-username/Phishing_website_detection.git
 cd Phishing_website_detection
+```
+
+### Step 2: Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### Step 3: Run the application
+```bash
+python app.py
+```
+
+### Open in browser:
+
+http://127.0.0.1:5000/
